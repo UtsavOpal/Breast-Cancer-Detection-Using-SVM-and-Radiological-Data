@@ -1,0 +1,18 @@
+# datasets
+organized_dataset/
+
+# trained models
+models/
+
+# results (optional - remove if you want plots on github)
+results/
+
+# cache
+__pycache__/
+
+# python
+*.pyc
+
+# environments
+venv/
+env/
